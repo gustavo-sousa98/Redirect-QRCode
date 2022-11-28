@@ -17,21 +17,21 @@
 
 #titulo, h3 {
     text-transform: uppercase;
-    font-family: "Helvetica", cursive,'Maitree', serif,"Lucida Grande", "Consolas", "Georgia";
+    font-family: "Helvetica", cursive,'Maitree', serif;
     color: #FFF;
     text-align: center;
 }
 
 #subtitulo{
     text-transform: uppercase;
-    font-family: "Helvetica", cursive,'Maitree', serif,"Lucida Grande", "Consolas", "Georgia";
+    font-family: "Helvetica", cursive;
     color: #FFFFF0;
     text-align: center;
 }
 
 #subtitulo2{
     text-transform: uppercase;
-    font-family: "Helvetica", cursive,'Maitree', serif,"Lucida Grande", "Consolas", "Georgia";
+    font-family: "Helvetica", cursive;
     color: #000;
     text-align: center;
     border: solid 1px #fff;
@@ -44,3 +44,9 @@
     margin-left: 760px;
 
 }
+
+@media (max-width: 479px) {
+    #ok{
+        width: 50%;
+        height: 50%;
+    }
