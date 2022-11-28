@@ -17,21 +17,21 @@
 
 #titulo, h3 {
     text-transform: uppercase;
-    font-family: 'Luckiest Guy', cursive,'Maitree', serif, 'Helvetica';
+    font-family: 'Luckiest Guy', cursive,'Maitree', serif, 'Helvetica', 'Lucida Grande', 'Consolas', 'Georgia';
     color: #FFF;
     text-align: center;
 }
 
 #subtitulo{
     text-transform: uppercase;
-    font-family: 'Luckiest Guy', cursive,'Maitree', serif, 'Helvetica';
+    font-family: 'Luckiest Guy', cursive,'Maitree', serif, 'Helvetica', 'Lucida Grande', 'Consolas', 'Georgia';
     color: #FFFFF0;
     text-align: center;
 }
 
 #subtitulo2{
     text-transform: uppercase;
-    font-family: 'Luckiest Guy', cursive,'Maitree', serif, 'Helvetica';
+    font-family: 'Luckiest Guy', cursive,'Maitree', serif, 'Helvetica', 'Lucida Grande', 'Consolas', 'Georgia';
     color: #000;
     text-align: center;
     border: solid 1px #fff;
