@@ -1,0 +1,46 @@
+/* 
+    Created on : 27 de nov. de 2022, 22:19:49
+    Author     : Gustavo
+*/
+
+.fundo{
+    background-color: #3CB371;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+    margin-top: 0px;
+    top: 0px;
+    left:0;
+    z-index: 9999;
+}
+
+#titulo, h3 {
+    text-transform: uppercase;
+    font-family: 'Luckiest Guy', cursive;
+    color: #FFF;
+    text-align: center;
+}
+
+#subtitulo{
+    text-transform: uppercase;
+    font-family: 'Luckiest Guy', cursive;
+    color: #FFFFF0;
+    text-align: center;
+}
+
+#subtitulo2{
+    text-transform: uppercase;
+    font-family: 'Luckiest Guy', cursive;
+    color: #000;
+    text-align: center;
+    border: solid 1px #fff;
+    font-size: 20px;
+    
+}
+
+#ok {
+    display: block;
+    margin-left: 760px;
+
+}
